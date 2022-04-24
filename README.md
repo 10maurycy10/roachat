@@ -1,6 +1,6 @@
 # Roachat (In bash)
 
-A CLI for ![rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+A CLI for [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
 Based on https://codeberg.org/jaafar/roachat.
 
